@@ -328,7 +328,7 @@
     "LEFT_MODE": "Quitter le mode sélection",
     "CANT_EDIT_IN_OPERATION": "Non modifiable dans une opération",
     "REDIRECT_AFTER": "Après avoir complété le questionnaire, les utilisateurs seront redirigés sur cette adresse automatiquement.",
-    "ACCESSIBILITY_AFTER": "Après avoir complété le questionnaire, les réponses n'ont pas besoin d'être validées pour que le(s) document(s) soi(en)t accessible(s).",
+    "ACCESSIBILITY_AFTER": "Après avoir complété le questionnaire, les réponses n'ont pas besoin d'être validées pour que le(s) document(s) soi(en)t accessible(s)."
   },
   "FORMS": {
     "INFOS": "Informations de l'opération",
@@ -638,7 +638,11 @@
     "PAGE_NUMBER": "Les numéros de page ne s'affichent pas en vue 'Page unique'",
     "TO_UPDATE": "Mettre à jour",
     "ADD_A": "Ajouter un",
-    "LANGUAGES": "Langues"
+    "LANGUAGES": "Langues",
+    "DRAG_DROP": "Glissez et déposez les fichiers ici",
+    "DRAG_OR": "Ou",
+    "DRAG_ERROR_NOT_FOUND": "Aucun fichier autorisé n'a été trouvé.",
+    "DRAG_ERROR_TYPE": "Certains fichiers ont été rejetés en raison de types de fichiers non autorisés."
   },
   "AUTHENTICATION": {
     "REDIRECTION": "Vous allez être redirigé",
@@ -703,11 +707,7 @@
     "PHONE": "Téléphone",
     "NAME_AND_FIRSTNAME": "Nom et Prénom",
     "CONTRACT_LIBRARY": "Retrouvez notre contrathèque et notre bibliothèque de modèles de documents, réalisée par des juristes et avocats.",
-    "ADD_USER": "Ajouter l'utilisateur",
-    "DRAG_DROP": "Glissez et déposez les fichiers ici",
-    "DRAG_OR": "Ou",
-    "DRAG_ERROR_NOT_FOUND": "Aucun fichier autorisé n'a été trouvé.",
-    "DRAG_ERROR_TYPE": "Certains fichiers ont été rejetés en raison de types de fichiers non autorisés."
+    "ADD_USER": "Ajouter l'utilisateur"
   },
   "HEADER": {
     "WORKSPACES": "Espaces de travail",
