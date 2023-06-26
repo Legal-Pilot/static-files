@@ -638,7 +638,11 @@
     "PAGE_NUMBER": "Page numbers not showing in 'Single Page' view",
     "TO_UPDATE": "To update",
     "ADD_A": "Add a",
-    "LANGUAGES": "Languages"
+    "LANGUAGES": "Languages",
+    "DRAG_DROP": "Drag and drop files here",
+    "DRAG_OR": "Ou",
+    "DRAG_ERROR_NOT_FOUND": "No authorized file was found",
+    "DRAG_ERROR_TYPE": "Some files were rejected due to unauthorized file types."
   },
   "AUTHENTICATION": {
     "REDIRECTION": "You will be redirected",
@@ -703,11 +707,7 @@
     "PHONE": "Phone",
     "NAME_AND_FIRSTNAME": "Name and First Name",
     "CONTRACT_LIBRARY": "Find our contract library and document template library, created by lawyers and attorneys",
-    "ADD_USER": "Add user",
-    "DRAG_DROP": "Drag and drop files here",
-    "DRAG_OR": "Ou",
-    "DRAG_ERROR_NOT_FOUND": "No authorized file was found",
-    "DRAG_ERROR_TYPE": "Some files were rejected due to unauthorized file types."
+    "ADD_USER": "Add user"
   },
   "HEADER": {
     "WORKSPACES": "Workspaces",
