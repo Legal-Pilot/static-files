@@ -374,7 +374,8 @@
     "VALID_DIRECTLY": "Valider directement le document",
     "DELETE_QUESTIONS_GROUP": "Supprimer ce groupe de questions",
     "CREATION_DATE": "Date de création",
-    "EXPLICATIONS": "Expliquez à quoi va servir cette opération, les possibilités, etc."
+    "EXPLICATIONS": "Expliquez à quoi va servir cette opération, les possibilités, etc.",
+    "DATA_SPECIFIED": "Non renseigné"
   },
   "REPORTING": {
     "ANSWERS": "Réponses aux questions",
