@@ -374,7 +374,8 @@
     "VALID_DIRECTLY": "Validate the document directly",
     "DELETE_QUESTIONS_GROUP": "Delete this group of questions",
     "CREATION_DATE": "Creation date",
-    "EXPLICATIONS": "Explain the purpose of this operation, the possibilities, etc."
+    "EXPLICATIONS": "Explain the purpose of this operation, the possibilities, etc.",
+    "DATA_SPECIFIED": "No specified"
   },
   "REPORTING": {
     "ANSWERS": "Answers to questions",
