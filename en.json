@@ -451,7 +451,8 @@
     "DELETE_DESTINATOR": "Delete destinator",
     "SEND_FOR_SIGNATURE": "Send for signature",
     "ERROR": "Error creating signing process",
-    "DOCUMENTS_TO_SIGN": "Document to sign"
+    "DOCUMENTS_TO_SIGN": "Document to sign",
+    "SIGNATURE_STATUS": "Status of signatures :"
   },
   "STORE": {
   },
