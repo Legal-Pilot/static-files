@@ -450,7 +450,8 @@
     "ADD_DESTINATOR": "Add a destinator",
     "DELETE_DESTINATOR": "Delete destinator",
     "SEND_FOR_SIGNATURE": "Send for signature",
-    "ERROR": "Error creating signing process"
+    "ERROR": "Error creating signing process",
+    "DOCUMENTS_TO_SIGN": "Document to sign"
   },
   "STORE": {
   },
