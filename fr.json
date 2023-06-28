@@ -93,7 +93,7 @@
       "ACCESS_TOKEN": "Access token URL",
       "INFO_URL": "User info URL",
       "SCOPES": "Scopes",
-      "ASSIGN": "Votre module est activé vous pouvez attribuer des accès à vos utilisateurs",
+      "AS": "Votre module est activé vous pouvez attribuer des accès à vos utilisateurs",
       "ACTIVATE_TO_ASSIGN": "Activez votre module pour pouvoir attribuer des accès à vos utilisateurs"
     }
   },
@@ -451,6 +451,7 @@
     "DELETE_DESTINATOR": "Supprimer le destinataire",
     "SEND_FOR_SIGNATURE": "Envoyer pour signature",
     "ERROR": "Erreur lors de la création du processus de signature"
+    "DOCUMENTS_TO_SIGN": "Document à signer"
   },
   "STORE": {
   },
