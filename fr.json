@@ -451,7 +451,8 @@
     "DELETE_DESTINATOR": "Supprimer le destinataire",
     "SEND_FOR_SIGNATURE": "Envoyer pour signature",
     "ERROR": "Erreur lors de la création du processus de signature"
-    "DOCUMENTS_TO_SIGN": "Document à signer"
+    "DOCUMENTS_TO_SIGN": "Document à signer",
+    "SIGNATURE_STATUS": "Status des signatures : "
   },
   "STORE": {
   },
