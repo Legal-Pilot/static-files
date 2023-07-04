@@ -453,7 +453,8 @@
     "ERROR": "Error creating signing process",
     "DOCUMENTS_TO_SIGN": "Document to sign",
     "SIGNATURE_STATUS": "Status of signatures",
-    "CREATE_SIGN": "Create signature"
+    "CREATE_SIGN": "Create signature",
+    "DOWNLOAD_SIGNED_DOCS": "Télécharger les documents signés"
   },
   "STORE": {
   },
