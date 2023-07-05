@@ -438,6 +438,7 @@
   "SIGN": {
     "SIGNATURES": "Signatures",
     "SIGNATURE_INFORMATION": "Signature information",
+    "SIGNATURE_CREATE_DETAIL":"<b>Simple signature</b></br> The recipient signs by checking a box. This is the fastest and most user-friendly signing method. The steps are as follows:"" <ul>\n"+ " <li>Determine the signing order (optional)</li>\n"+" <li>Add the email address of each signature</li>\n"+" <li>Send the document for signature : each recipient then receives an email from contact@legal-pilot.com (may be in spam) inviting them to sign\n"+" </li>\n"+" <li>The signatories accept the conditions service and click \"send document\" to sign\n</li>\n"+" <li>When all signatories have signed, everyone receives a confirmation email with the signed document attached\ n\n"+" </li>\n"+" <li>For your part, the document appears as signed in Legal Pilot, and you can download the audit trail (proof of signature)\n"+" </li>\n"+" </ul>",
     "SIGNATURIT_INFO": "The process is carried out by our partner Signaturit, a link has been sent by email to the recipients, you can check the status of the signature here.",
     "DOCUMENT_SIGNED_SUCCESS": "Document successfully signed",
     "DOWNLOAD_PROOF": "Download proof of signature",
