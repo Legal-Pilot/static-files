@@ -438,7 +438,7 @@
   "SIGN": {
     "SIGNATURES": "Signatures",
     "SIGNATURE_INFORMATION": "Signature information",
-    "SIGNATURIT_INFO": "The process is carried out by our partner Signaturit, a link has been sent by email to the recipients, you can see the status of the signature here.",
+    "SIGNATURIT_INFO": "The process is carried out by our partner Signaturit, a link has been sent by email to the recipients, you can check the status of the signature here.",
     "DOCUMENT_SIGNED_SUCCESS": "Document successfully signed",
     "DOWNLOAD_PROOF": "Download proof of signature",
     "DOCUMENT_CANCELED": "Signature process canceled",
