@@ -646,7 +646,7 @@
     "ADD_A": "Add a",
     "LANGUAGES": "Languages",
     "DRAG_DROP": "Drag and drop files here",
-    "DRAG_OR": "Ou",
+    "DRAG_OR": "Or",
     "DRAG_ERROR_NOT_FOUND": "No authorized file was found",
     "DRAG_ERROR_TYPE": "Some files were rejected due to unauthorized file types."
   },
