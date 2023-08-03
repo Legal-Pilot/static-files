@@ -328,7 +328,9 @@
     "LEFT_MODE": "Exit selection mode",
     "CANT_EDIT_IN_OPERATION": "Not editable in an operation",
     "REDIRECT_AFTER": "After completing the questionnaire, users will be redirected to this address automatically.",
-    "ACCESSIBILITY_AFTER": "After completing the questionnaire, the answers do not need to be validated for the document(s) to be accessible."
+    "ACCESSIBILITY_AFTER": "After completing the questionnaire, the answers do not need to be validated for the document(s) to be accessible.",
+    "CUSTOMSTYLE": "Custom Stylesheet",
+    "ADD_CSS": "Add CSS"
   },
   "FORMS": {
     "INFOS": "Operation information",
