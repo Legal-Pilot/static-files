@@ -330,7 +330,8 @@
     "REDIRECT_AFTER": "After completing the questionnaire, users will be redirected to this address automatically.",
     "ACCESSIBILITY_AFTER": "After completing the questionnaire, the answers do not need to be validated for the document(s) to be accessible.",
     "CUSTOMSTYLE": "Custom Stylesheet",
-    "ADD_CSS": "Add CSS"
+    "ADD_CSS": "Add CSS",
+    "CREATE_CSS": "Create custom stylesheet for this model"
   },
   "FORMS": {
     "INFOS": "Operation information",
