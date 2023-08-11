@@ -331,7 +331,12 @@
     "ACCESSIBILITY_AFTER": "Après avoir complété le questionnaire, les réponses n'ont pas besoin d'être validées pour que le(s) document(s) soi(en)t accessible(s).",
     "CUSTOMSTYLE": "Feuille de style personnalisée",
     "ADD_CSS": "Ajouter des règles CSS",
-    "CREATE_CSS": "Ajouter une feuille de style à ce template"
+    "CREATE_CSS": "Créer une feuille de style",
+    "UPLOAD_CSS": "Importer une feuille de style",
+    "INFO_CSS": "Vous pouvez créer ou importer votre propre feuille de style pour personnaliser votre template.",
+    "CSS_EMPTY": "/* Tapez votre CSS ici */",
+    "CSS_COMMENT": "/* CSS généré sur Legal-pilot.app */\\n /*https://legal-pilot.com/*/\\n\\n",
+    "UPLOAD_CSS_ERROR": "Le fichier doit être au format CSS"
   },
   "FORMS": {
     "INFOS": "Informations de l'opération",
@@ -651,7 +656,10 @@
     "DRAG_DROP": "Glissez et déposez les fichiers ici",
     "DRAG_OR": "Ou",
     "DRAG_ERROR_NOT_FOUND": "Aucun fichier autorisé n'a été trouvé.",
-    "DRAG_ERROR_TYPE": "Certains fichiers ont été rejetés en raison de types de fichiers non autorisés."
+    "DRAG_ERROR_TYPE": "Certains fichiers ont été rejetés en raison de types de fichiers non autorisés.",
+    "SAVE_PENDING":"Sauvegarde en cours...",
+    "SAVE_END":"Sauvegarde terminée",
+    "GENERAL_ERROR": "une erreur s'est produite"
   },
   "AUTHENTICATION": {
     "REDIRECTION": "Vous allez être redirigé",
@@ -722,5 +730,28 @@
     "WORKSPACES": "Espaces de travail",
     "CREATE_WORKSPACE": "Créer un espace de travail",
     "JOIN_WORKSPACE": "Rejoindre un espace de travail"
+  },
+  "STATUS": {
+    "DRAFT": "Brouillon",
+    "EDIT_IN_PROGRESS": "Modification en cours",
+    "PENDING_REVIEW": "Attente de relecture",
+    "REVIEWING": "Relecture en cours",
+    "PENDING_NEGOTIATION": "En attente de négociation",
+    "NEGOTIATION_IN_PROGRESS": "Négociation en cours",
+    "PENDING_SIGNATURE": "En attente de signature",
+    "SIGNATURE_IN_PROGRESS": "Signature en cours",
+    "SIGNED": "Signé",
+    "DONE": "Terminé",
+    "PUBLIC": "Public",
+    "PRIVATE": "Privé",
+    "DELAY": "Retard",
+    "TODO": "À faire",
+    "SENT": "Envoyé"
+  },
+  "FILTER": {
+    "DATE_MODIFICATION": "Date de modification",
+    "DATE_MODIFICATION_INVERSE": "Date de modification (inversé)",
+    "DATE_CREATION": "Date de création",
+    "DATE_CREATION_INVERSE": "Date de création (inversé)"
   }
 }

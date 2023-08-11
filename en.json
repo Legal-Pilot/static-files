@@ -331,7 +331,12 @@
     "ACCESSIBILITY_AFTER": "After completing the questionnaire, the answers do not need to be validated for the document(s) to be accessible.",
     "CUSTOMSTYLE": "Custom Stylesheet",
     "ADD_CSS": "Add CSS",
-    "CREATE_CSS": "Create custom stylesheet for this model"
+    "CREATE_CSS": "Create a stylesheet",
+    "UPLOAD_CSS": "Import a stylesheet",
+    "INFO_CSS": "You can create or import your own stylesheet to customize your template.",
+    "CSS_EMPTY": "/* Type your CSS here */",
+    "CSS_COMMENT": "/* CSS generated on Legal-pilot.app */\\n /*https://legal-pilot.com/*/\\n\\n",
+    "UPLOAD_CSS_ERROR": "The file must be in CSS format."
   },
   "FORMS": {
     "INFOS": "Operation information",
@@ -651,7 +656,10 @@
     "DRAG_DROP": "Drag and drop files here",
     "DRAG_OR": "Or",
     "DRAG_ERROR_NOT_FOUND": "No authorized file was found",
-    "DRAG_ERROR_TYPE": "Some files were rejected due to unauthorized file types."
+    "DRAG_ERROR_TYPE": "Some files were rejected due to unauthorized file types.",
+    "SAVE_PENDING":"Saving in progress...",
+    "SAVE_END":"Saving completed",
+    "GENERAL_ERROR": "An error has occurred"
   },
   "AUTHENTICATION": {
     "REDIRECTION": "You will be redirected",
@@ -722,5 +730,28 @@
     "WORKSPACES": "Workspaces",
     "CREATE_WORKSPACE": "Create a workspace",
     "JOIN_WORKSPACE": "Join a workspace"
+  },
+  "STATUS": {
+    "DRAFT": "Draft",
+    "EDIT_IN_PROGRESS": "Edit in Progress",
+    "PENDING_REVIEW": "Pending Review",
+    "REVIEWING": "Reviewing",
+    "PENDING_NEGOTIATION": "Pending Negotiation",
+    "NEGOTIATION_IN_PROGRESS": "Negotiation in Progress",
+    "PENDING_SIGNATURE": "Pending Signature",
+    "SIGNATURE_IN_PROGRESS": "Signature in Progress",
+    "SIGNED": "Signed",
+    "DONE": "Done",
+    "PUBLIC": "Public",
+    "PRIVATE": "Private",
+    "DELAY": "Delay",
+    "TODO": "To Do",
+    "SENT": "Sent"
+  },
+  "FILTER": {
+    "MODIFICATION_DATE": "Modification Date",
+    "MODIFICATION_DATE_REVERSE": "Modification Date (reverse)",
+    "CREATION_DATE": "Creation Date",
+    "CREATION_DATE_REVERSE": "Creation Date (reverse)"
   }
 }
