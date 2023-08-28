@@ -660,7 +660,7 @@
     "SAVE_PENDING":"Saving in progress...",
     "SAVE_END":"Saving completed",
     "GENERAL_ERROR": "An error has occurred",
-    "DELETE_COMMENT": "Delete the comment",
+    "DELETE_COMMENT": "Delete the comment"
   },
   "AUTHENTICATION": {
     "REDIRECTION": "You will be redirected",
