@@ -660,7 +660,7 @@
     "SAVE_PENDING":"Sauvegarde en cours...",
     "SAVE_END":"Sauvegarde terminée",
     "GENERAL_ERROR": "une erreur s'est produite",
-    "DELETE_COMMENT": "Supprimer le commentaire",
+    "DELETE_COMMENT": "Supprimer le commentaire"
   },
   "AUTHENTICATION": {
     "REDIRECTION": "Vous allez être redirigé",
