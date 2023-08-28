@@ -659,7 +659,8 @@
     "DRAG_ERROR_TYPE": "Some files were rejected due to unauthorized file types.",
     "SAVE_PENDING":"Saving in progress...",
     "SAVE_END":"Saving completed",
-    "GENERAL_ERROR": "An error has occurred"
+    "GENERAL_ERROR": "An error has occurred",
+    "DELETE_COMMENT": "Delete the comment",
   },
   "AUTHENTICATION": {
     "REDIRECTION": "You will be redirected",
