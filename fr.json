@@ -336,7 +336,8 @@
     "INFO_CSS": "Vous pouvez créer ou importer votre propre feuille de style pour personnaliser votre template.",
     "CSS_EMPTY": "/* Tapez votre CSS ici */",
     "CSS_COMMENT": "/* CSS généré sur Legal-pilot.app */\\n /*https://legal-pilot.com/*/\\n\\n",
-    "UPLOAD_CSS_ERROR": "Le fichier doit être au format CSS"
+    "UPLOAD_CSS_ERROR": "Le fichier doit être au format CSS",
+    "CONDITION_DUPLICATION_WARNING": "Cette resource contient un tag de condition, ajouter une duplication pourrait ne pas fonctionner comme souhaité."
   },
   "FORMS": {
     "INFOS": "Informations de l'opération",
