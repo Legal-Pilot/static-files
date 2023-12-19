@@ -337,7 +337,10 @@
     "CSS_EMPTY": "/* Tapez votre CSS ici */",
     "CSS_COMMENT": "/* CSS généré sur Legal-pilot.app */\\n /*https://legal-pilot.com/*/\\n\\n",
     "UPLOAD_CSS_ERROR": "Le fichier doit être au format CSS",
-    "CONDITION_DUPLICATION_WARNING": "Cette resource contient un tag de condition, ajouter une duplication pourrait ne pas fonctionner comme souhaité."
+    "CONDITION_DUPLICATION_WARNING": "Cette resource contient un tag de condition, ajouter une duplication pourrait ne pas fonctionner comme souhaité.",
+    "ORGANISE_SECTION_QUESTION": "Organiser les questions",
+    "ADD_SECTION": "Ajouter une section",
+    "SECTION_EMPTY": "Aucune question dans cette section"
   },
   "FORMS": {
     "INFOS": "Informations de l'opération",
